@@ -17,7 +17,7 @@ form.addEventListener('submit', function (holdresults) {
     }
 });
 
-// Reset 
+// Reset event
 form.addEventListener('reset', function () {
     result.innerText = '';
 });
