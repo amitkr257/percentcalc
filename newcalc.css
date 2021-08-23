@@ -1,0 +1,49 @@
+.rectangle {
+    height: 370px;
+    width: 420px;
+    margin: auto;
+    background-color: lightslategray;
+}
+
+.topline {
+    width: 100%;
+    display: block;
+    color: linen;
+    text-align: center;
+    padding: 5px;
+}
+
+.formfld {
+    box-sizing: border-box;
+    padding: 5px .001px;
+    margin: 8px;
+    border-radius: 7px;
+    
+}
+p1 {
+    color: blue;
+    font-family: serif;
+    font-size: 18px;
+    margin-left: 8px;
+}
+.subbtn {
+    padding: 5px 6px;
+    margin-left: 130px;
+    background-color: turquoise;
+    border-radius: 7px;
+    font-size: 15px;
+
+}
+.resetbtn {
+    background-color: turquoise;
+    text-align: center;
+    font-size: 15px;
+    padding: 5px 10px;
+    border-radius: 7px;
+    margin: 2px
+}
+
+h3 {
+    margin-left: 8px;
+    color: blue;
+}
